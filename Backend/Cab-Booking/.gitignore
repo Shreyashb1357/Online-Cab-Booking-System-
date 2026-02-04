@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+.metadata/
+.target/
+.classpath
+.project
+.settings/
